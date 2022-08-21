@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/churn_customer_lstm_svm.iml" filepath="$PROJECT_DIR$/.idea/churn_customer_lstm_svm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/churn_customer_lstm_sae.iml" filepath="$PROJECT_DIR$/.idea/churn_customer_lstm_sae.iml" />
     </modules>
   </component>
 </project>

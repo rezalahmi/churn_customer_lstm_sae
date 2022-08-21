@@ -16,8 +16,8 @@ def error_rate(X_train, x, opts):
     num_train = np.size(xt, 0)
     num_valid = np.size(xv, 0)
     # Define selected features
-    X_train = xt[:, x == 1]
-    X_valid = xv[:, x == 1]
+    X_train = xt
+    X_valid = xv
     # Training
     model = lstm_sae(node_layer1, node_layer2, node_layer3)
     model.compile()
